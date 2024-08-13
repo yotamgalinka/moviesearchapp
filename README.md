@@ -2,10 +2,6 @@
 
 This is a web application that allows you to search movies using The Movie Database (TMDb) API.
 
-## Features
-- Search for movies by title
-- View movie posters, ratings, and overviews
-
 ## How to View the Web App
 
 1. Clone the Repository:
